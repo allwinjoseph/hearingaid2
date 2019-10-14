@@ -281,7 +281,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/img/header-bg.jpg');
+    background-image: url('https://allwinjoseph.github.io/hearingaid2/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -670,7 +670,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('/img/map-image.png');
+    background-image: url('https://allwinjoseph.github.io/hearingaid2/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -991,7 +991,7 @@ float:right;
 {
   color: #262626;
     font-size: 17px;
-       background: url(/img/testi_quote.png) no-repeat;
+       background: url(https://allwinjoseph.github.io/hearingaid2/img/testi_quote.png) no-repeat;
     padding-left: 45px;
     margin-left: -50px;
 }
@@ -1071,7 +1071,7 @@ color:#003d66;
 }
 .expert
 {
-   background: url(/img/export-bg.jpg) no-repeat; 
+   background: url(https://allwinjoseph.github.io/hearingaid2/img/export-bg.jpg) no-repeat; 
 
   
 background-position:center center;
@@ -1247,7 +1247,7 @@ background: linear-gradient(to right, rgba(15,59,87,1) 0%, rgba(3,35,56,1) 100%)
     text-align:left;
 }
 .ul-cus li {
-    list-style-image: url(/img/check-box.png);
+    list-style-image: url(https://allwinjoseph.github.io/hearingaid2/img/check-box.png);
 }
 .form-cus
 {
